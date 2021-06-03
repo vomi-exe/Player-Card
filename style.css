@@ -22,7 +22,7 @@
 
 .card {
     color: var(--clr-neutral-100);
-    background-image: url(/vomi.PNG);
+    background-image: url(./vomi.PNG);
     background-position-x: -75px;
     background-size: cover;
     padding: 10rem 0 0;
